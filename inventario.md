@@ -6,3 +6,4 @@ Elettronica Padovana
 ## Componenti ##
 ## periferiche ##
 [tastiere](/periferiche/tastiere.md)
+[mouse](/periferiche/mouse.md)
