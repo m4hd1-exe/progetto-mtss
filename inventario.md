@@ -5,3 +5,4 @@
 Elettronica Padovana
 ## Componenti ##
 ## periferiche ##
+[tastiere](/periferiche/tastiere.md)
